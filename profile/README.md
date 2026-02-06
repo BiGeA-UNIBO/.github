@@ -1,4 +1,4 @@
-# 🧬 BiGeA-UNIBO
+# BiGeA-UNIBO
 
 ![GitHub Org](https://img.shields.io/badge/GitHub-BiGeA--UNIBO-181717?logo=github)
 ![University](https://img.shields.io/badge/University%20of%20Bologna-Alma%20Mater-8A1E1E)
